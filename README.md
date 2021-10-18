@@ -20,5 +20,9 @@ This program allows for a file to contain the data for personal contacts. You ca
 
 ## Demo Images
 ![Demo1](/Demo/Demo1.png)
+![Demo2](/Demo/Demo2.png)
+![Demo3](/Demo/Demo3.png)
+![Demo4](/Demo/Demo4.png)
+![Demo5](/Demo/Demo5.png)
 
 All data is saved to a local file named `contactBook.txt`.
