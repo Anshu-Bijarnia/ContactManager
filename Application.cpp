@@ -208,7 +208,7 @@ int main(int argc, char *argv[])
  
 		switch(ch)
 		{
-			case 0: cout<<"\n\n\t\tThank you for using CMS... ~Regards Anshu"  << endl;
+			case 0: cout<<"\n\n\t\tThank you for using CMS... \n\t\t~Regards Anshu"  << endl;
 				return 0;
 
 			case 1:
